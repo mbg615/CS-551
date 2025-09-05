@@ -2,3 +2,6 @@ numpy
 pandas
 matplotlib
 beautifulsoup4
+scikit-learn
+seaborn
+names_dataset
