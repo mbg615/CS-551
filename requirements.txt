@@ -7,3 +7,7 @@ seaborn
 names_dataset
 statsmodels
 ucimlrepo
+torch
+torchvision
+tensorboard
+
