@@ -11,5 +11,6 @@ torch
 torchvision
 tensorboard
 openpyxl
+gradio
 
 
